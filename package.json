@@ -1,7 +1,7 @@
 {
   "name": "full-envios-app",
-  "version": "1.5.3",
-  "versionComment": "Versión 1.5.3: Actualización general del sistema.",
+  "version": "1.6.0",
+  "versionComment": "Versión 1.6.0: Actualización general del sistema.",
   "private": true,
   "description": "Sistema de seguimiento de paquetes full-stack.",
   "scripts": {
